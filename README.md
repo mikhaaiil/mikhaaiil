@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, imma Mikhail
+
+Working as full python developer, creating new projects! 🚀
+
+Currently working on Yandex.Lyceum arcade game project 🎮
+> I hope soon it will be available for everybody!!
+
+My contacts:
+- @maffiix via Telegram
 
 <!--
 **mikhaaiil/mikhaaiil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
