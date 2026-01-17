@@ -1,6 +1,6 @@
-## Hi, imma Mikhail
+## Hi, watcher!
 
-Working as full python developer, creating new projects! 🚀
+I am working as full python developer & creating new projects! 🚀
 
 Currently working on Yandex.Lyceum arcade game project 🎮
 > I hope soon it will be available for everybody!!
