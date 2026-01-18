@@ -2,7 +2,7 @@
 
 I am working as full python developer & creating new projects! 🚀
 
-Currently working on Yandex.Lyceum arcade game project 🎮
+Currently working on Yandex.Lyceum arcade game project 🎮 & new telegram bot 🤖
 > I hope soon it will be available for everybody!!
 
 My contacts:
